@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b02dfa7aa9d4545b3417a18477fbee, type: 3}
+  m_Name: BuildinFileManifest
+  m_EditorClassIdentifier: 
+  BuildinFiles:
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_aotdlls.bundle
+    FileCRC32: 208b142c
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_code.bundle
+    FileCRC32: a2cb3c1d
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_config.bundle
+    FileCRC32: c382d18b
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_scenes_map1.bundle
+    FileCRC32: 1c74b86c
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_scenes_map2.bundle
+    FileCRC32: 4487e516
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_ui_demo_uihelp.bundle
+    FileCRC32: 48e093b5
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_ui_demo_uilobby.bundle
+    FileCRC32: 6943bcc5
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_ui_demo_uilogin.bundle
+    FileCRC32: 51585b69
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_ui_lockstep_uilslobby.bundle
+    FileCRC32: cba31317
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_ui_lockstep_uilslogin.bundle
+    FileCRC32: 2bd783ef
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_ui_lockstep_uilsroom.bundle
+    FileCRC32: 2ac2794a
+  - PackageName: DefaultPackage
+    FileName: assets_bundles_unit_unit.bundle
+    FileCRC32: 1e929c34
+  - PackageName: DefaultPackage
+    FileName: share_assets_bundles_scenes.bundle
+    FileCRC32: 32c20b8c
+  - PackageName: DefaultPackage
+    FileName: share_assets_bundles_scenes_map1.bundle
+    FileCRC32: 0182bae0
+  - PackageName: DefaultPackage
+    FileName: share_assets_bundles_scenes_map2.bundle
+    FileCRC32: 5f9b8389
+  - PackageName: DefaultPackage
+    FileName: share_assets_res_mat.bundle
+    FileCRC32: 376a301b
+  - PackageName: DefaultPackage
+    FileName: share_assets_res_unit_skeleton.bundle
+    FileCRC32: 18d76a1b
+  - PackageName: DefaultPackage
+    FileName: share_assets_res_unit_skeleton_ani.bundle
+    FileCRC32: 0ffcdfa1
+  - PackageName: DefaultPackage
+    FileName: share_assets_res_unit_skeleton_ani_materials.bundle
+    FileCRC32: 52301983
+  - PackageName: DefaultPackage
+    FileName: share_assets_res_unit_skeleton_texture.bundle
+    FileCRC32: 8fe6d848
+  - PackageName: DefaultPackage
+    FileName: unityshaders.bundle
+    FileCRC32: 4ed40bd2
